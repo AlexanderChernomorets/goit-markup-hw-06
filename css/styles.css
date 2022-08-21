@@ -845,6 +845,12 @@ img {
   fill: #fff;
   
 }
+.mod-check:focus + .check-text .modal-check {
+  background-color: var(--accent);
+  border-color: var(--accent);
+  fill: #fff;
+  
+}
 
 
 .check-text {
