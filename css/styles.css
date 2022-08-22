@@ -909,5 +909,6 @@ img {
   border: #2196f3;
   margin: 30px 124px 0;
   cursor: pointer;
+  transition:  background 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
